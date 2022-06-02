@@ -3,10 +3,10 @@
 ## Instrucciones
 
 ### Paso 1: 
-Descargue el repositorio e ingrese a la carpeta src utilizando la terminal
+Descargue este repositorio e ingrese a la carpeta *src* utilizando la terminal
 
 ### Paso 2: 
-En la terminal, ejecute el script de entrenamiento del modelo de ventas:
+Ejecute el script de entrenamiento del modelo de ventas:
 
 ```
 python model.py
@@ -20,7 +20,7 @@ python app.py
 ```
 
 ### Paso 4: 
-Sin detener el proceso ejecutado anteriormente, ingrese a la web: http://127.0.0.1:5000/ Desde ahi puede ingresar datos nuevos para ejecutar el modelo
+Sin detener el proceso ejecutado anteriormente, abra una ventana del navegador e ingrese a la web: http://127.0.0.1:5000/ Desde ahi puede ingresar datos nuevos para ejecutar el modelo
 
 ### Paso 5: 
 Cuando haya terminado de utilizar el modelo, puede cerrar el navegador y regresar a la terminal. Digite la combinación Ctrl+C para finalizar el proceso
