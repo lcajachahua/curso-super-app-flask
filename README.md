@@ -1,9 +1,9 @@
 # Caso: Implementación de un Modelo de Estimación de Ventas como API
-Curso Metodos Supervisados del PEA Data Science Fundamentals - DMC
 
-Para desarrollar el caso, puede utilizar la versión gratuita en cloud de Jupyter. Ingrese a: https://jupyter.org/try y elija la opción "Try JupyterLab"
+Requisitos:
+- Entorno JupyterLab
 
-Luego, abra la terminal y utilice el siguiente código para clonar este repo:
+Para poder iniciar con el caso, abra JupyterLab. Luego, abra la terminal y utilice el siguiente código para clonar este repo:
 
 ```
 git clone https://github.com/lcajachahua/curso-super-app-flask.git
