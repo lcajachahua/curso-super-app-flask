@@ -9,7 +9,7 @@ Para poder iniciar con el caso, abra JupyterLab. Luego, abra la terminal y utili
 git clone https://github.com/lcajachahua/curso-super-app-flask.git
 ```
 
-Para continuar con el ejemplo, puede utilizar el archivo src/README.md(src/README.md)
+Para continuar con el ejemplo, puede utilizar el archivo [src/README.md](src/README.md)
 
 
 Elaborado por Raj Mehrotra, modificado por Luis Cajachahua, bajo licencia MIT (2022)
