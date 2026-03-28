@@ -27,5 +27,5 @@ python app.py
 Sin detener el proceso ejecutado anteriormente, abra una ventana del navegador e ingrese a la web: http://127.0.0.1:5000/ Desde ahi puede ingresar datos nuevos para ejecutar el modelo
 
 ### Paso 5: 
-Cuando haya terminado de utilizar el modelo, puede cerrar el navegador y regresar a la terminal. Digite la combinación Ctrl+C para finalizar el proceso
+Cuando haya terminado de utilizar el modelo, puede cerrar la pestaña del modelo y regresar a la terminal. Digite la combinación Ctrl+C para finalizar el proceso
 
