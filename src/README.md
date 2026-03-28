@@ -4,6 +4,10 @@
 
 ### Paso 1: 
 Descargue este repositorio e ingrese a la carpeta *src* utilizando la terminal
+```
+cd src
+```
+
 
 ### Paso 2: 
 Ejecute el script de entrenamiento del modelo de ventas:
